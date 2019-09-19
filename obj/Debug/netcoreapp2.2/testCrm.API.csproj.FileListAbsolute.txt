@@ -1,0 +1,14 @@
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\bin\Debug\netcoreapp2.2\testCrm.API.dll
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\bin\Debug\netcoreapp2.2\testCrm.API.pdb
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\bin\Debug\netcoreapp2.2\testCrm.API.deps.json
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\bin\Debug\netcoreapp2.2\testCrm.API.runtimeconfig.json
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\bin\Debug\netcoreapp2.2\testCrm.API.runtimeconfig.dev.json
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.csprojAssemblyReference.cache
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.csproj.CoreCompileInputs.cache
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.RazorAssemblyInfo.cache
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.RazorAssemblyInfo.cs
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.AssemblyInfoInputs.cache
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.AssemblyInfo.cs
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.RazorTargetAssemblyInfo.cache
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.dll
+C:\Users\jm_bchr\source\repos\UDEMUY_NETCORE\testCrm.API\obj\Debug\netcoreapp2.2\testCrm.API.pdb
